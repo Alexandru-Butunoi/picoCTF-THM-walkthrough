@@ -1,6 +1,6 @@
 ## Unzip this archive and find the file named 'uber-secret.txt'
 
-After the unzip we can use a simple 'find' command as fallow:
+After the unzip we can use a simple 'find' command as follow:
 ```
 find files -name 'uber*' 
 ```
