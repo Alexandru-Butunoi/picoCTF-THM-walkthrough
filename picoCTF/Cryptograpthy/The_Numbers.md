@@ -8,8 +8,8 @@ This will give us a pdf with some numbers on it.
 
 ```
 
-I recognised the format of the flag so I assumed that 16 9 3 15 3 20 6 must represent picoctf.
+I recognised the format of the flag, so I assumed that 16 9 3 15 3 20 6 must represent picoctf.
 
-The numbers repressent the place of each letter in alpabet so if we translate it we have : 
+The numbers represent the place of each letter in the alphabet, so if we translate it we have 
 
 picoctf{thenumbersm****}
