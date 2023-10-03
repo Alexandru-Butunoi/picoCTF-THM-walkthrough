@@ -2,7 +2,7 @@
 
 First thing that pops in my mind in base64.
 
-We can convert it using [this script](../../Scripts/FromBase64.py)
+We can convert it using [this script](../Scripts/GeneralSkills/FromBase64.py)
 
 ```console
 
