@@ -1,2 +1,2 @@
 # picoCTF-THM-walkthrough
-Solutions for picoCTF and TryHackMe without revealing the flags
+Solutions for picoCTF without revealing the flags
