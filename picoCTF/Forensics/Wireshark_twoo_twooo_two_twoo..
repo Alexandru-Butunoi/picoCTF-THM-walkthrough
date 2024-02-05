@@ -1,0 +1,12 @@
+## Wireshark twoo twooo two twoo...
+
+Can you find the flag? shark2.pcapng.
+
+```console
+
+tshark -r shark2.pcapng -T fields -e dns.qry.name -Y "dns.qry.name != '' && ip.dst == 18.217.1.57" | grep -oE "^[^.]*" | uniq | base64 -d
+
+
+```
+
+You can find the explinations [here](https://www.youtube.com/watch?v=I_zb9ybAjvg&t=272s&ab_channel=AlmondForce)
